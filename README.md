@@ -29,12 +29,12 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
-<br/>
+<! ---<br/>
 
 <a href="https://github.com/giulia9999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giulia9999&show_icons=true" />
 </a>
-<br/>
+<br/> --->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
