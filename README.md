@@ -29,15 +29,6 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
-<! ---<br/>
-
-<a href="https://github.com/giulia9999">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giulia9999&show_icons=true" />
-</a>
-<br/> --->
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="left">
 <a href="https://www.linkedin.com/in/giulia-contarino-91b6a9176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Giulia%20Contarino-blue?style=flat-square&logo=linkedin"></a>
 <a href="giulia.contarino918@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-giulia.contarino918@gmail.com-blue?style=flat-square&logo=gmail"></a>
