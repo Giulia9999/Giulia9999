@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Passionate about coding and literature
-- 🎓 &nbsp; Currently studying Java back-end at Develhope
+- 🎓 &nbsp; Certified Java developer from Develhope School
 - 💼 &nbsp; Looking for a job in tech
-- 🌱 &nbsp; Learning more about Data Science and Artificial Intelligence
+- 🌱 &nbsp; Learning more about Algorithms and Data structures
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
